@@ -6,7 +6,7 @@ Aplicación de preguntas booleanas (verdadero o falso), desarrollada en kotlin
   - Un texto donde se muestran las preguntas
   - Alertas para decir si es correcta o incorrecta la respuesta
 
-![1](https://github.com/user-attachments/assets/7f37f891-2888-4d50-9afc-dc32a8a57335)
-![2](https://github.com/user-attachments/assets/f0d0b3cb-2075-4bc4-8cda-6b0c9eb9f562)
+![ok](https://github.com/user-attachments/assets/58c893bf-1ab0-49ea-8922-f1ade22c6cff)
+
 
 Subido el 22/09/2024
