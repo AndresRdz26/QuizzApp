@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QuizzApp</string>
+    <string name="mensaje_hola">Hello World</string>
+    <string name="Texto_pregunta">Here is the question</string>
+    <string name="true_Button">True</string>
+    <string name="false_Button">False</string>
+    <string name="toast_ok">\¡Correct\!</string>
+    <string name="toast_fail">\¡Incorrect\!</string>
+    <string name="next_button">Next</string>
+    <string name="pregunta1">Kotlin is a greeting</string>
+    <string name="pregunta2">Is an operating system a phone?</string>
+    <string name="pregunta3">The grass is green</string>
+    <string name="pregunta4">200 + 300 = 500</string>
+    <string name="prev_button">Previous</string>
+</resources>

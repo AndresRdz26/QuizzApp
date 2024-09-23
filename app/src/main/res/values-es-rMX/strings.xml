@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuizzApp</string>
+    <string name="mensaje_hola">Hola Mundo</string>
+    <string name="Texto_pregunta">Contesta esto</string>
+    <string name="true_Button">Cierto</string>
+    <string name="false_Button">Mentira</string>
+    <string name="toast_ok">¡Correcto!</string>
+    <string name="toast_fail">¡Incorrecto!</string>
+    <string name="next_button">Siguente</string>
+    <string name="pregunta1">Kotlin es un saludo</string>
+    <string name="pregunta2">¿Un sistema operativo es un telefono?</string>
+    <string name="pregunta3">Es verde el pasto</string>
+    <string name="prev_button">Anterior</string>
+    <string name="pregunta4">200 + 300 = 500</string>
+</resources>
